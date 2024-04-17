@@ -3,11 +3,15 @@
 </br>
 
 ## :pushpin: Intro  
-- 기술 스택: Java, Spring Boot, Spring framework, Python, Gradle, Spring Data JPA, MongoDB, Oracle, MySQL, Spring Security, AWS, JavaScript
 - 언제든 협업자들이 작성한 코드를 파악하고, 그 의도와 형식에 맞게 조정해 개발하는 능력이 있습니다.
 - 커뮤니티 기능과 매일 업데이트되는 랭킹을 제공하는 쇼핑몰 사이트를 협업해 개발했습니다.
 - 웹 페이지 기반 생성형 LLM/평가 서비스 개발 프로젝트에 참여했습니다.
 - 마이너한 여행, 컬트영화, 보사노바와 하우스음악을 사랑하고 논쟁을 즐기는 열정적인 수영인입니다. 🏊‍♀️🏊‍♂️🏄‍♂️
+
+## :pushpin: 기술 스택 
+- 백엔드 : Java, Spring Boot, Spring framework, Python, Gradle, MongoDB, Oracle, MySQL, Spring Security,  JavaScript
+- 프론트앤드 : JavaScript
+- Devops : AWS
 
 
 </br>
