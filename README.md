@@ -8,6 +8,8 @@
 - 웹 페이지 기반 생성형 LLM/평가 서비스 개발 프로젝트에 참여했습니다.
 - 마이너한 여행, 컬트영화, 보사노바와 하우스음악을 사랑하고 논쟁을 즐기는 열정적인 수영인입니다. 🏊‍♀️🏊‍♂️🏄‍♂️
 
+</br>
+
 ## :pushpin: 기술 스택 
 - 백엔드 : Java, Spring Boot, Spring framework, Python, Gradle, MongoDB, Oracle, MySQL, Spring Security,  JavaScript
 - 프론트앤드 : JavaScript
