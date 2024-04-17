@@ -3,6 +3,9 @@
 </br>
 
 ## :pushpin: Intro
+기술 스택:  
+>Java / Spring Boot / Gradle / Spring Data JPA / Mongo DB / Oracle
+>MySQL / Spring Security / AWS / Java Script  
 
 
 </br>
