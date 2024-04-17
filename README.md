@@ -11,7 +11,6 @@
 </br>
 
 ## :pushpin: 기술 스택 
-- 백엔드 : 
 
 |   |  Skill |
 |---|---|
@@ -23,16 +22,25 @@
 
 </br>
 
+## :pushpin: 개발경험
+- 웹 어플리케이션 구현 경험
+- Mysql, MongoDB 활용 경험
+- 크롤링 경험 다수
+- 상대를 고려하는 협업능력, 조율경험
+-  AWS, DOCker 배포 경험
+
+</br>
+
 ## :pushpin: Contact
 - 이메일: vertigo1958movie@gmail.com
 - 블로그: 
 - 깃헙: https://github.com/minglykim
-
+  
 </br>
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/2023-SMHRD-KDT-IOT-4/Repo)
->나의  웹서비스 포트폴리오 (개인 프로젝트)
+>나의  웹 서비스 포트폴리오 (개인 프로젝트) : 예정
 >개발 기간: 2023.4.14 ~
 >  
 >기술 스택:  
